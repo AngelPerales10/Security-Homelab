@@ -12,7 +12,7 @@ This cybersecurity homelab provides a hands-on environment for exploring and und
 ### Components:
 - The internet
 - Home router
-- Machine with VMWare
+- My main machine with VMWare
 - VMWare Virtual Machines:
   - pfSense
   - Security Onion
