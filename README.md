@@ -1,6 +1,6 @@
 # Cybersecurity Homelab
 
-![CyberNetworkTopology](https://github.com/AngelPerales10/Security-Homelab/assets/108242721/6b01b7e2-71c7-4fba-a8e4-568a6057ddc9)
+![NetworkTopology (1)](https://github.com/AngelPerales10/Security-Homelab/assets/108242721/a833ce77-c2d5-4aea-b3b3-d1a17b4b4503)
 
 ## Summary
 I developed this dynamic cybersecurity homelab to explore and understand various technologies, simulate attacker behaviors, and gain insight into defensive strategies from the blue team perspective.
