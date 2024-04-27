@@ -50,7 +50,7 @@ This cybersecurity homelab provides a hands-on environment for exploring and und
 
 - **Span Port**:
   - Connected to VMNET 5
-  - Mirrors traffic sent out to victim network to Security Onion
+  - Mirrors traffic sent out on victim network to Security Onion
 
 ## Purpose
 
